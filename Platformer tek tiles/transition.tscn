@@ -20,4 +20,4 @@ __meta__ = {
 "_edit_group_": true
 }
 
-[connection signal="body_entered" from="change stage" to="change stage" method="_on_change_stage_body_entered"]
+[connection signal="body_entered" from="change stage" to="change stage" method="_on_ChangeStage_body_entered"]
